@@ -1,5 +1,9 @@
-# bookbot
+# Bookbot
 Python program that analyzes novels and prints a statistical report of the word and character usage found within.
 
-# bookbot
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+# Usage
+1. Clone the repo
+2. run the program with the command:
+```
+python3 main.py <path-to-book>
+```
